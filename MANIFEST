@@ -1,0 +1,16 @@
+Changes
+LICENSE
+MANIFEST
+MANUAL
+Makefile.PL
+README
+VERSION
+examples
+examples/README
+examples/get_alarms.pl
+examples/get_crossconnects.pl
+examples/get_version.pl
+examples/mrtg.pl
+lib
+lib/TL1
+lib/TL1/Toolkit.pm
